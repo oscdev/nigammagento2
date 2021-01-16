@@ -1,5 +1,5 @@
 <?php
-echo "Hello World";
+echo "Hello magento";
 /**
  * Application entry point
  *
